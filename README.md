@@ -2,8 +2,9 @@
 
 Software Engineering student at WeThinkCode_ | Building practical projects in Python, JavaScript, Dart, and Java
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/sean-russell-b7493324a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sean-russell-b7493324a)
 [![GitHub](https://img.shields.io/badge/GitHub-Seannas9912-181717?logo=github&style=for-the-badge)](https://github.com/Seannas9912)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-4EAAFF?style=for-the-badge)](https://github.com/Seannas9912/portfolio_website)
 
 I am a motivated software engineering student currently studying at WeThinkCode_ toward an NQF 6 qualification. I am passionate about building clean, functional, and user-friendly software solutions and continuously improving my technical skills through real-world projects and hands-on learning.
 
@@ -77,5 +78,7 @@ I am seeking opportunities where I can continue learning, contribute to meaningf
 ## Connect
 
 - GitHub: [Seannas9912](https://github.com/Seannas9912)
+- LinkedIn: [Sean Russell](https://www.linkedin.com/in/sean-russell-b7493324a)
+- Portfolio: [portfolio_website](https://github.com/Seannas9912/portfolio_website)
 
 I’m open to internships, junior developer opportunities, collaboration, and networking with people working in software engineering and development.
